@@ -2,16 +2,7 @@
 """
 Created on Thu May  3 15:11:07 2018
 
-@author: Pan
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 30 19:26:54 2018
-
-@author: Pan
-"""
-'''
+reference:
 https://stackoverflow.com/questions/20491028/optimal-way-to-compute-pairwise-mutual-information-using-numpy?answertab=votes#tab-top
 '''
 
